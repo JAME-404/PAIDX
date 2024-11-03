@@ -24,3 +24,10 @@ Choose One For Install PAIDX Command
 ### [+] Warring
 
 **This tool is developed for educational purposes.**
+
+
+## [~] Find Me on :
+
+<a href="https://www.github.com/JAME-404">GitHub</a>
+<a href="https://t.me/JAMES_2007">Telegram Account</a>
+<a href="https://t.me/JAME_EMPIRE">Telegram Channel</a>
