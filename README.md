@@ -1,4 +1,4 @@
-<h2 align="center"><u>PAID Powerful Tools Collection!</u></h2>
+<h2 align="center"><u>PAIDX Powerful Tools Collection!</u></h2>
 
 ![useful tools collection in one  tool](https://raw.githubusercontent.com/JAME-404/PAIDX/refs/heads/Files/main_image.jpg)
 
