@@ -5,7 +5,13 @@
 
 ### [+] Description
 
-**PAIDX is a powerful paid tool. It can Send Anonymous SMS to Myanmar Phone Number. It can hack Facebook Account using Bruteforce Attack. It can Clone Myanmar Facebook Account using Myanmar Phone Number. It can Clone Facebook Account with Mail. It can Clone Facebook Account with ID File. It can Track IP Address Information and Phone Number Information!**
+**PAIDX is a powerful paid tool.
+It can Send Anonymous SMS to Myanmar Phone Number.
+It can hack Facebook Account using Bruteforce Attack.
+It can Clone Myanmar Facebook Account using Myanmar Phone Number.
+It can Clone Facebook Account with Mail.
+It can Clone Facebook Account with ID File.
+It can Track IP Address Information and Phone Number Information!**
 
 ### [+] Installation
 
