@@ -29,5 +29,5 @@ Choose One For Install PAIDX Command
 ## [~] Find Me on :
 
 <a href="https://www.github.com/JAME-404">GitHub</a>
-<a href="https://t.me/JAMES_2007">Telegram Account</a>
-<a href="https://t.me/JAME_EMPIRE">Telegram Channel</a>
+<a href="https://t.me/JAMES_2007">TG Account</a>
+<a href="https://t.me/JAME_EMPIRE">TG Channel</a>
